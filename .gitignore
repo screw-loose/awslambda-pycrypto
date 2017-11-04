@@ -1,7 +1,7 @@
 *.py[cod]
 
-# C extensions
-*.so
+# C extensions required; this code is platform-specific.
+# *.so
 
 # pycharm
 .idea/
